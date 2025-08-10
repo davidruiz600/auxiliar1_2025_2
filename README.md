@@ -1,4 +1,4 @@
-# Esto es un readme
+# Esto es un README
 
 ## Sirve para hacer una introducción a tu proyecto
 
